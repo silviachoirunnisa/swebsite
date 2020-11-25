@@ -92,6 +92,9 @@ header a:hover{
 #newsletter form{
     float : right;
     margin-top: 15px;
+    -moz-animation: animasiputar 2s infinite linear;
+    -webkit-animation: animasiputar 2s infinite linear;
+    border-radius: 40px;
 }
 
 #newsletter input[type="email"]{
